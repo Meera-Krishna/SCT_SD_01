@@ -15,7 +15,7 @@ A temperature converter program that converts between Celsius, Fahrenheit, and K
 
 - Language: C++
 - IDE: VS Code 
-- CLI-Based interface
+- CLI-Based Interface
 
 ---
 
